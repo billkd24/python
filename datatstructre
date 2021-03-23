@@ -1,0 +1,6 @@
+# four main types
+
+#Lists values that can be moded
+#Tuple cant be changed once specified
+#Set unique values
+#dict key-value Pairs
