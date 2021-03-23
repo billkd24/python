@@ -17,5 +17,5 @@ for i in range(2,10,2):
     print (i)
 
 n = int (1)
-for i in range (1, 1000+n):
+for i in range (1, 10+n):
     print (i)
