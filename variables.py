@@ -10,4 +10,4 @@ print (f"Hello {f_name} {l_name}")
 
 age = input ("Proceed to enter your age:")
 
-print (f"Hello {f_name} {l_name}. Your age is {age}")
+print (f"Hello {f_name} {l_name}. Your age iis {age}")
