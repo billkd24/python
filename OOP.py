@@ -1,7 +1,7 @@
 class Person():
     def __init__(self,name,age):
         self.f_name = name
-        self.my_age = age
+        self.my_age = int(age)
 
 p1 = Person("Jane",20)
 p2 = Person("Mike",24)
